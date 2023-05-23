@@ -1,4 +1,5 @@
 # OpenCore： i7 8700k + z370p配置
+> 理论上intel 8代 coffee lake带核显卡的u都能用这个
 
 - CPU：i7 8700K
 - 主板：z370p
